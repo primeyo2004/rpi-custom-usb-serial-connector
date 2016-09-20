@@ -26,4 +26,4 @@ Enjoy!
 ![alt tag](https://github.com/primeyo2004/rpi-custom-usb-serial-connector/blob/master/rpi-custom-usb-serial-connector-setup.jpg)
 
 ## Sample Video
-![sample video link](https://video-hkg3-1.xx.fbcdn.net/v/t43.1792-2/14432791_542854795922755_2011283148_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTAyNCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=215&oh=a62e6fae8ab257d8b28b309dea49061c&oe=57E05073)
+![usb serial](https://youtu.be/I6nUVXbevhg)

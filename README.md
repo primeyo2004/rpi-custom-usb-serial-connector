@@ -19,6 +19,10 @@ So if you're still with me, then your options are:
 
 Enjoy!
 
+## Instructions
+Markup : 1. Compile and upload the **arduino_uart2usbserial** project using Arduino Sketch to the 2 Arduino Nanos
+         2. The follow the Connection Diagram and/or Actual Setup below
+
 ## Connection Diagram
 ![alt tag](https://github.com/primeyo2004/rpi-custom-usb-serial-connector/blob/master/rpi-custom-usb-serial-connector-diagram.jpg)
 

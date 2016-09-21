@@ -25,7 +25,7 @@ Enjoy!
 * 1 Pc. 490 ohms resistor
 * 1 Pc. 1 K ohms resistor
 * 1 Pc. Solderless Breadboard
-* 1 Pc. Raspberry PI 3
+* 1 Pc. Raspberry PI 3 w/ Rasbian Linux OS and Power Supply 
 * Misc 1p - 1p Male-to-Female and Female-to-Female connectors
 
 ## Instructions

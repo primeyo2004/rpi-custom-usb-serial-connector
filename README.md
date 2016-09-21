@@ -19,6 +19,15 @@ So if you're still with me, then your options are:
 
 Enjoy!
 
+##Materials
+* 2 Pcs. Arduino Nano
+* 1 Pc. USB Cable for Arduino
+* 1 Pc. 490 ohms resistor
+* 1 Pc. 1 K ohms resistor
+* 1 Pc. Solderless Breadboard
+* 1 Pc. Raspberry PI 3
+* Misc 1p - 1p Male-to-Female and Female-to-Female connectors
+
 ## Instructions
 1. Compile and upload the **arduino_uart2usbserial** project using Arduino Sketch to the 2 Arduino Nanos
 2. The follow the Connection Diagram and/or Actual Setup below
